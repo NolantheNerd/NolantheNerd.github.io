@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nolan McMahon"
   avatar           : "profile.jpeg"
-  bio              : "Machine Learning Specialist at the Marketing and Technology Company LoKnow"
+  bio              : "Physist, Mathematician, Computer Scientist, Data Scientist, Machine Learning Specialist"
   location         : "Calgary, Alberta, Canada"
-  employer         : "LoKnow"
+  employer         : "[LoKnow](www.loknow.com)"
   pubmed           : 
   googlescholar    : 
   email            : "nolanmcmahonemail@gmail.com"
