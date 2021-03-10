@@ -11,9 +11,6 @@ main:
     
   - title: "Competitive Coding"
     url: /competitve_coding/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Resume"
     url: /resume/
