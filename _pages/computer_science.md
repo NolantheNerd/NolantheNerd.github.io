@@ -16,3 +16,10 @@ Test 101 $\sum i$
 \end{equation*}
 
 $$f=ma$$
+
+Test a Code Block
+
+```python
+def hello(self):
+    print("Hello World!")
+```
