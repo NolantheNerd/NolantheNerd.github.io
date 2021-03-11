@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nolan's Acedemic Escapade"
+title: "Nolan's Academic Escapade"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
