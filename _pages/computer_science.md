@@ -14,3 +14,5 @@ Test 101
 \begin{equation*}
     f(x) = \sum x^2
 \end{equation*}
+
+$$f=ma$$
