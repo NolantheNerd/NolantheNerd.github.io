@@ -13,7 +13,7 @@ Education:
 ==========
 
 * <b>University of Calgary:</b> B.Sc. (Hons) in Physics, 2019
-    * GPA of 3.78 in my final semester with a GPA of 3.55 overall.
+    * [GPA](http://nolanthenerd.github.io/files/transcript.pdf) of 3.78 in my final semester with a GPA of 3.55 overall.
     * Wrote seniors honours [thesis](http://nolanthenerd.github.io/files/phys598_thesis.pdf) on using the Ising model to measure the quantum speedup of D-Wave’s 2000Q quantum computer under the supervision of [Dr. Barry Sanders](https://iqst.ca/people/peoplepage.php?id=4).
     * Advanced studies beyond honours level in computational physics classes, focusing on neural networks, multiprocessing, and hardware manipulation, receiving an A+.
 
