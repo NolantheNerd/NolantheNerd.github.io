@@ -9,15 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Test 101 $\sum i$
+# [Disease Propagation Simulator](https://nolanthenerd.github.io/computer_science/disease_simulator.md)
 
-\begin{equation*}
-    f(x) = \sum x^2
-\end{equation*}
-
-$$f=ma$$
-
-Test a Code Block
+Here is a description.
 
 ~~~ python
 def hello(self):
