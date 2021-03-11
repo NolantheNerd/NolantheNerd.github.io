@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  physics:
     output: true
     permalink: /:collection/:path/
-  publications:
+  mathematics:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  computer_science:
     output: true
     permalink: /:collection/:path/
-  talks:
+  competitive_coding:
     output: true
     permalink: /:collection/:path/
 
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: physics
     values:
       layout: single
       author_profile: true
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: mathematics
     values:
       layout: single
       author_profile: true
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: computer_science
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: competitive_coding
     values:
       layout: talk
       author_profile: true
