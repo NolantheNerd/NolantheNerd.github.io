@@ -19,7 +19,7 @@ $$f=ma$$
 
 Test a Code Block
 
-```python
+~~~ python
 def hello(self):
     print("Hello World!")
-```
+~~~
