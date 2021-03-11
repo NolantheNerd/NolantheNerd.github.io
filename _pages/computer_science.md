@@ -23,4 +23,4 @@ Test a Code Block
 def hello(self):
     print("Hello World!")
 ~~~
-{: style="font-size: 200%;"}
+{: style="font-size: 150%;"}
