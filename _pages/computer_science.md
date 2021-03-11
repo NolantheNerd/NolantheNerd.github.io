@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Test 101
+Test 101 $\sum i$
 
 \begin{equation*}
     f(x) = \sum x^2
