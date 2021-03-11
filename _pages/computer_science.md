@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# [Disease Propagation Simulator](https://nolanthenerd.github.io/computer_science/disease_simulator)
+# [Disease Propagation Simulator](https://nolanthenerd.github.io/computer_science/disease_simulator/)
 
 Here is a description.
 
