@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# [Disease Propagation Simulator](https://nolanthenerd.github.io/computer_science/disease_simulator/)
+# What is Competitive Coding?
 
-This is the Competitive Coding Homepage.
+Writing computer code is an art form, and as with more "traditional" forms of art, there are are a number of different ways to express yourself. Each technique is an infinite well of potential and learning opportunity. Some of the most popular competitive coding forms include:
 
-~~~ python
-def hello(self):
-    print("Hello World!")
-~~~
-{: style="font-size: 175%;"}
+## Minimizing Code Length
+
+This is known as code golfing. The idea is to solve a computational problem with as few characters of code as possible. In an effort to optimize minimization, there are many languages written explicitly for code golf. [Pyth](https://esolangs.org/wiki/Pyth), for example, is a Python based language used for code golf. One great place to dip your toes into code golf is the [Code Golf Stack Exchange](https://codegolf.stackexchange.com/). Here you can see new code golf problems, and other people's solutions in a number of different languages. Code golfing has never really turned my crank, but it certainly has garnered a passionate community.
+
+## Adaptive Problem Solving
