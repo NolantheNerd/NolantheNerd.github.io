@@ -21,7 +21,7 @@ Choose the problem below that you'd like to see! As I solve more problems, they 
 <table>
 <tbody>
   <tr>
-    <th>1</th><th style="background-color:#0000FF;">
+    <th>1</th>
     <th>2</th>
     <th>3</th>
     <th>4</th>
