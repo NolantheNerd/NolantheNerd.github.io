@@ -19,6 +19,6 @@ My personal favourite portal to competitive coding, [Project Euler](https://proj
 
 Project Euler keeps track of a number of different statistics so that you can compare your performace to others. Here is my profile badge:
 
-<center><img src=https://projecteuler.net/profile/NolantheNerd.png></center>
+<center><img src="https://projecteuler.net/profile/NolantheNerd.png"></center>
 
 I've included all the problems that I've solved, and my solutions [here]()!
