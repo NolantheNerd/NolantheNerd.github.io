@@ -19,21 +19,18 @@ Currently I've solved **84 problems**, which puts me at
 Choose the problem below that you'd like to see! As I solve more problems, they will appear here!
 
 <table>
-<thead>
-<tr></tr>
-</thead>
 <tbody>
   <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
-    <th>4</th>
-    <th>5</th>
-    <th>6</th>
-    <th>7</th>
-    <th>8</th>
-    <th>9</th>
-    <th>10</th>
+    <td style="background-color:#0000FF;">1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>11</td>
