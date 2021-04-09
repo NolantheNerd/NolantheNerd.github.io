@@ -20,6 +20,7 @@ Choose the problem below that you'd like to see! As I solve more problems, they 
 
 <table>
 <thead>
+<tr></tr>
 </thead>
 <tbody>
   <tr>
