@@ -18,7 +18,6 @@ Currently I've solved **84 problems**, which puts me at
 
 Choose the problem below that you'd like to see! As I solve more problems, they will appear here!
 
-<b>
 <table>
 <tbody>
   <tr>
@@ -983,4 +982,3 @@ Choose the problem below that you'd like to see! As I solve more problems, they 
   </tr>
 </tbody>
 </table>
-</b>
