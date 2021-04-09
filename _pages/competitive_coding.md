@@ -9,12 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-# What is Competitive Coding?
+> Writing computer code is an art form, and as with more "traditional" forms of art, there are a number of different _objectively_ beautiful ways to express yourself. 
 
-Writing computer code is an art form, and as with more "traditional" forms of art, there are are a number of different ways to express yourself. Each technique is an infinite well of potential and learning opportunity. Some of the most popular competitive coding forms include:
+Competitive programming an activity which encourages the efficient and timely implementation of computer science/mathematical algorithms to solve contrieved problems. These problems come in any number of different flavours, varieties, and difficulties in an effort to appeal to a wide array of potential coding competitors. Participation in competitions and access to problems takes place through a number of different online resources like:
 
-## Minimizing Code Length
+# [Project Euler](https://projecteuler.net/)
 
-This is known as code golfing. The idea is to solve a computational problem with as few characters of code as possible. In an effort to optimize minimization, there are many languages written explicitly for code golf. [Pyth](https://esolangs.org/wiki/Pyth), for example, is a Python based language used for code golf. One great place to dip your toes into code golf is the [Code Golf Stack Exchange](https://codegolf.stackexchange.com/). Here you can see new code golf problems, and other people's solutions in a number of different languages. Code golfing has never really turned my crank, but it certainly has garnered a passionate community.
+My personal favourite portal to competitive coding, [Project Euler](https://projecteuler.net/) contains problems which are an amalgamation of mathematics and computer science. There are more than 750 such problems, each ranked by difficulty, number of correct answer submissions, and chronological release date with more being released all the time on a regular schedule.
 
-## Adaptive Problem Solving
+Project Euler keeps track of a number of different statistics so that you can compare your performace to others. Here is my profile badge:
+
+<center><img src=https://projecteuler.net/profile/NolantheNerd.png></center>
+
+I've included all the problems that I've solved, and my solutions [here]()!
