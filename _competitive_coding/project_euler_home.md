@@ -12,7 +12,7 @@ redirect_from:
 
 ## My Statistical Standing
 
-Currently I've solved **84 problems**, which puts me at 
+Currently I've solved **84 problems**, which puts me at BLAHDI BLAH
 
 ## Problem Solutions
 
@@ -22,7 +22,7 @@ Choose the problem below that you'd like to see! As I solve more problems, they 
 <tbody>
   <tr>
     <td style="background-color:#adff2f;font-weight:bolder;color:#000000;text-align:center;">1</td>
-    <td>2</td>
+    <td style="background-color:#adff2f;font-weight:bolder;color:#000000;text-align:center;">2</td>
     <td>3</td>
     <td>4</td>
     <td>5</td>

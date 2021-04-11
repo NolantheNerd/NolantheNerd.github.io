@@ -21,4 +21,4 @@ Project Euler keeps track of a number of different statistics so that you can co
 
 <center><img src="https://projecteuler.net/profile/NolantheNerd.png"></center>
 
-I've included all the problems that I've solved, and my solutions [here](https://nolanthenerd.github.io/competitive_coding/project_euler_home/)!
+I've included all the problems that I've solved, and my solutions [here](/competitive_coding/project_euler_home/)!
