@@ -7,12 +7,106 @@ redirect_from:
     - /competitive_coding/project_euler_home
     - /competitive_coding/project_euler_home.md
 ---
+<link rel="stylesheet" href="/_competitive_coding/project_euler_home.css">
 
 {% include base_path %}
 
 ## My Statistical Standing
 
 Currently I've solved **84 problems**, which puts me at BLAHDI BLAH
+
+<center>
+<table style="width:50%;">
+<thead>
+  <tr>
+    <td>Difficulty Rating</td>
+    <td>Problems Solved</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="_5p">5%</td>
+    <td style="font-weight: bolder;">63</td>
+  </tr>
+  <tr>
+    <td class="_10p">10%</td>
+    <td style="font-weight: bolder;">6</td>
+  </tr>
+  <tr>
+    <td class="_15p">15%</td>
+    <td style="font-weight: bolder;">8</td>
+  </tr>
+  <tr>
+    <td class="_20p">20%</td>
+    <td style="font-weight: bolder;">5</td>
+  </tr>
+  <tr>
+    <td class="_25p">25%</td>
+    <td style="font-weight: bolder;">1</td>
+  </tr>
+  <tr>
+    <td class="_30p">30%</td>
+    <td style="font-weight: bolder;">1</td>
+  </tr>
+  <tr>
+    <td class="_35p">35%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_40p">40%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_45p">45%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_50p">50%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_55p">55%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_60p">60%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_65p">65%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_70p">70%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_75p">75%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_80p">80%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_85p">85%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_90p">90%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_95p">95%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td class="_100p">100%</td>
+    <td>0</td>
+  </tr>
+</tbody>
+</table>
+</center>
 
 ## Problem Solutions
 
@@ -21,8 +115,8 @@ Choose the problem below that you'd like to see! As I solve more problems, they 
 <table>
 <tbody>
   <tr>
-    <td style="background-color:#adff2f;font-weight:bolder;color:#000000;text-align:center;">1</td>
-    <td style="background-color:#adff2f;font-weight:bolder;color:#000000;text-align:center;">2</td>
+    <td class="_5p"><a href="/competitive_coding/project_euler/problem_1">1</a></td>
+    <td>2</td>
     <td>3</td>
     <td>4</td>
     <td>5</td>
