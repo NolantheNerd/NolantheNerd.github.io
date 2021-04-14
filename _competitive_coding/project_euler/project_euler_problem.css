@@ -6,6 +6,125 @@
     padding: 10px;
 }
 
+._5p {
+  background-color: #adff2f;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._10p {
+  background-color: #7fff00;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._15p {
+  background-color: #32cd32;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._20p {
+  background-color: #008000;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._25p {
+  background-color: #9bddff;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._30p {
+  background-color: #00b7eb;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._35p {
+  background-color: #1e90ff;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._40p {
+  background-color: #3f00ff;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._45p {
+  background-color: #7b68ee;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._50p {
+  background-color: #8a2be2;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._55p {
+  background-color: #fcffa4;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._60p {
+  background-color: #fefe33;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._65p {
+  background-color: #ffd700;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._70p {
+  background-color: #ffb347;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._75p {
+  background-color: #ff8f00;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._80p {
+  background-color: #cb410b;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._85p {
+  background-color: #a40000;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._90p {
+  background-color: #d73b3e;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._95p {
+  background-color: #ff0000;
+  font-weight: bolder;
+  color: #000000;
+}
+
+._100p {
+  background-color: #ff0090;
+  font-weight: bolder;
+  color: #000000;
+}
 
 /* From https://codersblock.com/blog/customizing-github-gists/ */
 
