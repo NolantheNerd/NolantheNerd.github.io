@@ -13,7 +13,7 @@ redirect_from:
 
 ## My Statistical Standing
 
-Currently I've solved **84 problems**, which puts me at BLAHDI BLAH
+Currently I've solved **84 problems**, which puts me in the top **1.827%** of the **1,035,687 members** of Project Euler. I hold position **230/969** of all active Canadian members. The difficulty of the problems on Project Euler are broken into 20 different categories, from the easiest at 5% to the most difficult at 100%.
 
 <center>
 <table style="width:50%;">
@@ -116,7 +116,7 @@ Choose the problem below that you'd like to see! As I solve more problems, they 
 <tbody>
   <tr>
     <td class="_5p"><a href="/competitive_coding/project_euler/problem_1">1</a></td>
-    <td>2</td>
+    <td class="_5p"><a href="/competitive_coding/project_euler/problem_2">2</a></td>
     <td>3</td>
     <td>4</td>
     <td>5</td>

@@ -1,3 +1,7 @@
+.center {
+  text-align: center !important;
+}
+
 .problem_content {
     background-color: #ffffff;
     font-size: 110%;

@@ -21,6 +21,8 @@ redirect_from:
 
 ## My Solution
 
-I solved this problem on June 9, 2018. 
+I solved this problem on June 9, 2018. As of April 17, 2021, this problem has been solved by 966,296 other members. 
+
+### Python 3
 
 <script src="https://gist.github.com/NolantheNerd/c4ddca83f858ca2308c2e16c3af695be.js"></script>
