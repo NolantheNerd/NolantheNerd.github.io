@@ -121,7 +121,7 @@ Choose the problem below that you'd like to see! As I solve more problems, they 
     <td class="_5p"><a href="/competitive_coding/project_euler/problem_4">4</a></td>
     <td class="_5p"><a href="/competitive_coding/project_euler/problem_5">5</a></td>
     <td class="_5p"><a href="/competitive_coding/project_euler/problem_6">6</a></td>
-    <td>7</td>
+    <td class="_5p"><a href="/competitive_coding/project_euler/problem_7">7</a></td>
     <td>8</td>
     <td>9</td>
     <td>10</td>
