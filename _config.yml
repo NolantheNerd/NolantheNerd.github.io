@@ -177,6 +177,9 @@ kramdown:
 
 # Collections
 collections:
+  cycling:
+    output: true
+    permalink: /:collection/:path/
   physics:
     output: true
     permalink: /:collection/:path/
